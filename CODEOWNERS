@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @vasaviinumula24-code
+/src/backend/database.py      @vasaviinumula24-code
+/src/backend/routers/auth.py  @vasaviinumula24-code
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @vasaviinumula24-code
